@@ -99,6 +99,4 @@ dependencies:
 - **Project:** Task Manager App
 - **Built with:** Flutter & Dart
 
-## License
 
-This project is for educational and internship purposes.
